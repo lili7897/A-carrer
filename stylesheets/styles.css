@@ -1,4 +1,4 @@
-@font-face {
+
   font-family: 'OpenSansLight';
   src: url("../fonts/OpenSans-Light-webfont.eot");
   src: url("../fonts/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Light-webfont.woff") format("woff"), url("../fonts/OpenSans-Light-webfont.ttf") format("truetype"), url("../fonts/OpenSans-Light-webfont.svg#OpenSansLight") format("svg");
@@ -237,8 +237,8 @@ dfn {
  * Addresses styling not present in IE6/7/8/9
  */
 mark {
-  background: #ff0;
-  color: #000;
+  background: Black;
+  color: HotPink;
 }
 
 /*
@@ -800,7 +800,7 @@ section #title h1 {
   line-height: 36px;
 }
 section #title p {
-  color: #d7cfbe;
+  color: HotPink;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 18px;
@@ -810,7 +810,7 @@ section #title .credits {
   font-size: 11px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #696969;
+  color: LimeGreen;
   margin-top: -10px;
 }
 section #title .credits.left {
